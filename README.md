@@ -16,4 +16,4 @@ __มิติที่ 4: การพิทักษ์สิ่งแวด�
 
 [Infographoc](https://notebooklm.google.com/notebook/b5a84029-87d0-4fcc-a8b2-05bbdeb2e7f5)
 
-[Mind Map](https://kietpawpan.github.io/2569/mindmap.png)
+[Mind Map](https://kietpawpan.github.io/2569/MindMap.png)
